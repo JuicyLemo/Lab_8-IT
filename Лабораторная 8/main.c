@@ -9,6 +9,6 @@ int main()
     scanf("%d", &a);
     printf("\n¬ведите число b: ");
     scanf("%d", &b);
-
+    printf("%d + %d = %d", a, b, a+b);
     return 0;
 }
