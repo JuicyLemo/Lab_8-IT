@@ -1,3 +1,4 @@
+//ƒанна€ прога складывает и вычитает два числа
 #include <stdio.h>
 #include <locale.h>
 #include "sdt.h"
