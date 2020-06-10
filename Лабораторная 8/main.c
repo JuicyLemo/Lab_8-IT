@@ -14,6 +14,10 @@ int main()
     scanf("%d", &b);
     printf("\n\n%d + %d = %d", a, b, a+b);
     printf("\n%d - %d = %d", a, b, a-b);
+<<<<<<< HEAD
     printf("\n%d * %d = %d", a, b, a*b);
+=======
+    printf("\n%d * %d = %d", a, b, a/b);
+>>>>>>> Division
     return 0;
 }
